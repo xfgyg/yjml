@@ -17,5 +17,5 @@
 ##脚本
 
 ```
-wget -P /root -N --no-check-certificate "https://github.com/xfgyg/yjml/blob/main/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://github.com/xfgyg/wlkq/blob/main/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
