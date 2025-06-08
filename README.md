@@ -1,4 +1,5 @@
 # Xray-core/sing-box 一键脚本
+无广告
 ## 核心
 
 - Xray-core
