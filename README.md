@@ -1,5 +1,5 @@
 # Xray-core/sing-box 一键脚本 
-## 原作者：[mack-a](https://github.com/mack-a/v2ray-agent)
+原作者：[mack-a](https://github.com/mack-a/v2ray-agent)
 去除广告部分
 ## 核心
 
